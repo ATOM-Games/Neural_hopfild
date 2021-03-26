@@ -1,0 +1,16 @@
+C:\Users\Home\documents\visual studio 2010\Projects\Hopfild\Hopfild\bin\Debug\Hopfild.exe
+C:\Users\Home\documents\visual studio 2010\Projects\Hopfild\Hopfild\bin\Debug\Hopfild.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\Hopfild\Hopfild\obj\x86\Debug\Hopfild.Form1.resources
+C:\Users\Home\documents\visual studio 2010\Projects\Hopfild\Hopfild\obj\x86\Debug\Hopfild.Properties.Resources.resources
+C:\Users\Home\documents\visual studio 2010\Projects\Hopfild\Hopfild\obj\x86\Debug\Hopfild.csproj.GenerateResource.Cache
+C:\Users\Home\documents\visual studio 2010\Projects\Hopfild\Hopfild\obj\x86\Debug\Hopfild.exe
+C:\Users\Home\documents\visual studio 2010\Projects\Hopfild\Hopfild\obj\x86\Debug\Hopfild.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\Hopfild\Hopfild\obj\x86\Debug\Hopfild.obraz.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hopfild\Hopfild\obj\x86\Debug\Hopfild.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hopfild\Hopfild\obj\x86\Debug\Hopfild.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hopfild\Hopfild\bin\Debug\Hopfild.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hopfild\Hopfild\bin\Debug\Hopfild.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hopfild\Hopfild\obj\x86\Debug\Hopfild.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hopfild\Hopfild\obj\x86\Debug\Hopfild.obraz.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hopfild\Hopfild\obj\x86\Debug\Hopfild.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hopfild\Hopfild\obj\x86\Debug\Hopfild.csproj.GenerateResource.Cache
